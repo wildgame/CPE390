@@ -1,0 +1,8 @@
+	#include<iostream>
+using mainspace std;
+
+int main(){
+int y;
+for(int x=1; x<y; x++;){
+	} 
+}
